@@ -6,6 +6,9 @@ layout: index
 
 # Content Base[^1]
 
+If you're reading the readme on github, [head over to the demo](http://jarred.github.com/content-base).
+{.small}
+
 ![This image is unrelated to the article, but necessary to design for. © Jarred Bishop](http://farm8.staticflickr.com/7024/6774040597_370f5c5004_z.jpg)
 
 This repo is a test bed for content design. It is all the elements that can be used within an article you should design for and also a set of css rules to optimise your content for legibility on various devices.
